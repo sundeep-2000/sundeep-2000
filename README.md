@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sundeep-2000
-- 👀 I’m interested in cybre security
-- 🌱 I’m currently learning :-ccna,linux,pentesting.
-- 💞️ I’m looking to collaborate on :-Technical Aspects
-- 📫 How to reach me :-sandeeptumu99@gmail.com
+# Adding System Calls in XV6 Operating System
 
-<!---
-sundeep-2000/sundeep-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It is an operating system based on linux kernel developed by MIT which is written in C and Assembly language and mainly it is an open source project which is free for everyone to modify and it is monolithic layered(entire operating system works in the kernel space) and it also has been deployed into many secure phones in China Here,We are going to add a system call in to our XV6 operating system which is based on linux kernal and XV6 is an operating
+system and we are going to explain the process of adding a systemcall in our kernal in detail and commands requires for adding a system call in our kernel
